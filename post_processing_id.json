@@ -1,0 +1,9 @@
+{"post_processing_id": {
+  "DIR": "Sorties directes",
+  "PDM": "Perturbation - deltas mensuels",
+  "LOC": "Correction de biais - LOCI",
+  "PQT": "Perturbation - quantiles",
+  "PQM": "Perturbation - quantiles, moving window, fenêtre mobile",
+  "CQT": "Correction de biais - quantiles",
+  "CQM": "Correction de biais - quantiles, moving window, fenêtre mobile"
+}}

@@ -1,0 +1,17 @@
+{
+  "nature_id": {
+    "CLIOBS":	"Climat observé",
+    "CLISIM":	"Climat simulé",
+    "HYDOBS":	"Hydrométrie observée",
+    "HYDREP":	"Hydrologie reproduite",
+    "HYDSIM":	"Hydrologie simulée",
+    "INDOBS":	"Indicateur observé",
+    "INDREP":	"Indicateur reproduit",
+    "INDSIM":	"Indicateur simulé",
+    "DERIND":	"Dérive d'indicateur"
+  },
+  "version_metadata": {
+
+  }
+}
+

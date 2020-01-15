@@ -1,0 +1,10 @@
+{"regional_model_id": {
+  "ERA": "ERA40",
+  "CRC": "CRCM4",
+  "REM": "REMO",
+  "MM5": "MM5",
+  "RAC": "RACMO2",
+  "HRM": "HRM3",
+  "RC3": "RCM3",
+  "WRF": "WRFG"
+}}
