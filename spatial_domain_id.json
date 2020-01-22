@@ -1,11 +1,11 @@
 {"spatial_domain_id": {
-  "DMIREQ": "Domaine spatial défini par l'IREQ",
-  "DMCEHQ": "Domaine spatial par le CEHQ",
-  "QBCMER": "Québec méridional",
-  "QBCSEP": "Québec septentrional",
-  "OUTAOU": "Bassin de l'Outaouais",
-  "VALSTL": "Vallée du Saint-Laurent",
-  "QUEBEC": "Grille pour tout le Quebec",
-  "020201": "Numéro de station",
-  "TR0001": "Numéro de tronçons"
+  "DMIREQ": "IREQ",
+  "DMCEHQ": "CEHQ",
+  "QBCMER": "Southern_Quebec",
+  "QBCSEP": "Northern_Quebec",
+  "OUTAOU": "Outaouais",
+  "VALSTL": "Saint_Lawrence_Valley",
+  "QUEBEC": "Quebec",
+  "020201": "Station",
+  "TR0001": "Reach"
 }}

@@ -1,5 +1,5 @@
 {"variable_id":  {
-  "TASMIN": "tmin",
-  "TASMAX": "tmax",
-  "PRECIP": "Precipitation"
+  "TASMIN": "tasmin",
+  "TASMAX": "tasmax",
+  "PRECIP": "pr"
 }}

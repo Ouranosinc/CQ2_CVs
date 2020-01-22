@@ -1,8 +1,10 @@
 {"validation_contact_id": {
-  "MM": "Marie Minville",
-  "CG": "Catherine Guay",
-  "MB": "Marco Braun",
-  "SC": "Simon Lachance Cloutier",
-  "SR": "Simon Ricard"
+  "MM": "Marie_Minville",
+  "CG": "Catherine_Guay",
+  "MB": "Marco_Braun",
+  "SC": "Simon_Lachance_Cloutier",
+  "SR": "Simon_Ricard",
+  "GR": "Gabriel_Rondeau_Genesse",
+  "CM": "Charles_Malenfant"
 }}
   

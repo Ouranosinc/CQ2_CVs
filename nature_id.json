@@ -1,17 +1,12 @@
-{
-  "nature_id": {
-    "CLIOBS":	"Climat observé",
-    "CLISIM":	"Climat simulé",
-    "HYDOBS":	"Hydrométrie observée",
-    "HYDREP":	"Hydrologie reproduite",
-    "HYDSIM":	"Hydrologie simulée",
-    "INDOBS":	"Indicateur observé",
-    "INDREP":	"Indicateur reproduit",
-    "INDSIM":	"Indicateur simulé",
-    "DERIND":	"Dérive d'indicateur"
-  },
-  "version_metadata": {
-
-  }
-}
+{"nature_id": {
+    "CLIOBS":	"Observed_climate_data",
+    "CLISIM":	"Simulated_climate_data",
+    "HYDOBS":	"Observed_hydrological_data",
+    "HYDREP":	"Reconstructed_hydrological_data",
+    "HYDSIM":	"Simulated_hydrological_data",
+    "INDOBS":	"Observed_indicator",
+    "INDREP":	"Reconstructed_indicator",
+    "INDSIM":	"Simulated_indicator",
+    "DERIND":	"Derived_indicator"
+  }}
 

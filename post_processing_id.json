@@ -1,9 +1,11 @@
 {"post_processing_id": {
-  "DIR": "Sorties directes",
-  "PDM": "Perturbation - deltas mensuels",
-  "LOC": "Correction de biais - LOCI",
-  "PQT": "Perturbation - quantiles",
-  "PQM": "Perturbation - quantiles, moving window, fenêtre mobile",
-  "CQT": "Correction de biais - quantiles",
-  "CQM": "Correction de biais - quantiles, moving window, fenêtre mobile"
+  "DIR": "Raw_data",
+  "PDM": "Perturbed_observations_monthly_deltas",
+  "LOC": "Bias_correction_LOCI",
+  "PQT": "Perturbed_observations_quantiles",
+  "PQM": "Perturbed_observations_quantiles_moving_window",
+  "CQT": "Quantile_mapping",
+  "CQM": "Quantile_mapping_moving_window_detrending",
+  "CQX": "Quantile_mapping_moving_window_detrending_extremes",
+  "XXX": "Raw_data"
 }}

@@ -1,6 +1,6 @@
 {"mapping_type_id": {
-  "NNO": "nearest neighbor Sim to Obs grid",
-  "NNS": "nearest neighbor Obs to Sim grid",
-  "A2S": "average Obs to Sim grid",
-  "XXX": "aucun (grille originale)"
+  "NNO": "Nearest_neighbor_Sim_to_Obs_grid",
+  "NNS": "Nearest_neighbor_Obs_to_Sim_grid",
+  "A2S": "Averaged_Obs_to_Sim_grid",
+  "XXX": "Original_grid"
 }}
