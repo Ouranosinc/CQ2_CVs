@@ -1,8 +1,8 @@
 {"period_id": {
-  "REF": "Référence (1971-2000)",
+  "REF": "Reference_1971-2000",
   "FUT": "Future",
-  "H50": "Future (2041-2070)",
-  "H80": "Future (2071-2100)",
-  "CON": "1901-2100 ()",
-  "ALL": "Référence et Future"
+  "H50": "Future_2041-2070",
+  "H80": "Future_2071-2100",
+  "CON": "Continuous_1950-2100",
+  "ALL": "Reference_and_Future"
 }}

@@ -1,0 +1,18 @@
+{"rcm_id": {
+  "ERA": "ERA40",
+  "CRC": "CRCM4",
+  "REM": "REMO",
+  "MM5": "MM5",
+  "RAC": "RACMO2",
+  "HRM": "HRM3",
+  "RC3": "RCM3",
+  "WRF": "WRFG",
+  "CU" : "CRCM5-UQAM",
+  "CO" : "CRCM5-Ouranos",
+  "RC" : "RCA4",
+  "RM" : "RegCM4",
+  "WF" : "WRF",
+  "CA" : "CanRCM4",
+  "HH" : "HIRHAM5",
+  "XXX": "Not_applicable"
+}}
