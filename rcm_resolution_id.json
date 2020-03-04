@@ -1,12 +1,12 @@
 {"rcm_resolution_id": {
-  "ERA": "Not_applicable",
-  "CRC": "Not_applicable",
-  "REM": "Not_applicable",
-  "MM5": "Not_applicable",
-  "RAC": "Not_applicable",
-  "HRM": "Not_applicable",
-  "RC3": "Not_applicable",
-  "WRF": "Not_applicable",
+  "ERA": "NotApplicable",
+  "CRC": "NotApplicable",
+  "REM": "NotApplicable",
+  "MM5": "NotApplicable",
+  "RAC": "NotApplicable",
+  "HRM": "NotApplicable",
+  "RC3": "NotApplicable",
+  "WRF": "NotApplicable",
   "CO1" : "NAM-11",
   "CU2" : "NAM-22",
   "CO2" : "NAM-22",
@@ -22,5 +22,5 @@
   "WF4" : "NAM-44",
   "CA4" : "NAM-44",
   "HH4" : "NAM-44",
-  "XXX": "Not_applicable"
+  "XXX": "NotApplicable"
 }}

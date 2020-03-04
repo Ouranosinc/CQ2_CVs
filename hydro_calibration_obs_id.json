@@ -1,6 +1,6 @@
 {"hydro_calibration_obs_id": {
-  "C11": "CEHQ_2011",
-  "C12": "CEHQ_2012",
+  "C11": "CEHQ2011",
+  "C12": "CEHQ2012",
   "KRI": "KrigIREQ",
   "INT": "Interpol"
 }}

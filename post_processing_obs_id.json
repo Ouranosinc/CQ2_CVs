@@ -1,12 +1,12 @@
 {"post_processing_obs_id": {
-  "C11": "CEHQ_2011",
-  "C12": "CEHQ_2012",
+  "C11": "CEHQ2011",
+  "C12": "CEHQ2012",
   "KRI": "KrigIREQ",
   "INT": "Interpol",
   "CRU": "CRU",
   "NLW": "NLWIS ",
   "CAN": "CANDGRID",
   "NRC": "NRCAN",
-  "NRX": "NRCAN_new_extremes",
-  "XXX": "Not_applicable"
+  "NRX": "NRCAN-Extremes",
+  "XXX": "NotApplicable"
 }}

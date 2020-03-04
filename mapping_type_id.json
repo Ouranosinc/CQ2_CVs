@@ -1,6 +1,6 @@
 {"mapping_type_id": {
-  "NNO": "Nearest_neighbor_Sim_to_Obs_grid",
-  "NNS": "Nearest_neighbor_Obs_to_Sim_grid",
-  "A2S": "Averaged_Obs_to_Sim_grid",
-  "XXX": "Original_grid"
+  "NNO": "NearestNeighborSimToObsGrid",
+  "NNS": "NearestNeighborObsToSimGrid",
+  "A2S": "AveragedObsToSimGrid",
+  "XXX": "OriginalGrid"
 }}

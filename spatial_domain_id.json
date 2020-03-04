@@ -1,9 +1,9 @@
 {"spatial_domain_id": {
   "DMIREQ": "IREQ",
   "DMCEHQ": "CEHQ",
-  "QBCMER": "Southern_Quebec",
-  "QBCSEP": "Northern_Quebec",
+  "QBCMER": "SouthernQuebec",
+  "QBCSEP": "NorthernQuebec",
   "OUTAOU": "Outaouais",
-  "VALSTL": "Saint_Lawrence_Valley",
+  "VALSTL": "SaintLawrenceValley",
   "QUEBEC": "Quebec"
 }}
