@@ -1,5 +1,7 @@
 {"variable_id":  {
   "TASMIN": "tasmin",
   "TASMAX": "tasmax",
-  "PRECIP": "pr"
+  "PRECIP": "pr",
+  "DEBITJ": "streamflow",
+  "INDHYD": "hydrological_indicators"
 }}
