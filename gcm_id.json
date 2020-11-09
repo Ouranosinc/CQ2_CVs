@@ -48,5 +48,6 @@
   "MR3": "MRI-CGCM3",
   "MRE": "MRI-ESM1",
   "NOE": "NorESM1-M",
-  "ECE": "EC-EARTH"
+  "ECE": "EC-EARTH",
+  "XXX": "NotApplicable"
 }}
