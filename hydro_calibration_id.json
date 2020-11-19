@@ -1,3 +1,11 @@
 {"hydro_calibration_id": {
-  "GL2011": "Global2011"
+  "GL2011": "Global2011",
+  "SETZOX": "SZETO",
+  "SHANGX": "SHANGUAN",
+  "LN24HA": "LN24HA",
+  "MG24HA": "MG24HA",
+  "MG24HI": "MG24HI",
+  "MG24HK": "MG24HK",
+  "MG24HQ": "MG24HQ",
+  "MG24HS": "MG24HS"
 }}
