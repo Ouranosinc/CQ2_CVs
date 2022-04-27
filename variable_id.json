@@ -3,5 +3,6 @@
   "TASMAX": "tasmax",
   "PRECIP": "pr",
   "DEBITJ": "streamflow",
+  "DEBITX": "streamflow",
   "INDHYD": "hydrological_indicators"
 }}
