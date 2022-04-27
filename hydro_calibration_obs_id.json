@@ -1,6 +1,7 @@
 {"hydro_calibration_obs_id": {
   "C11": "CEHQ2011",
   "C12": "CEHQ2012",
+  "C15": "CEHQ2015",
   "KRI": "KrigIREQ",
   "INT": "Interpol",
   "GCQ": "GrilleClimatiqueQuotidienne"
